@@ -1,8 +1,14 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700&psig=AOvVaw26KPkwnqgb5W-PXIlEZfiV&ust=1690210133021000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCuxaeJpYADFQAAAAAdAAAAABAO)](https://SimonPlancke.io)
-<h1 align="center">Hi 👋, I'm Simon Plancke</h1>
+
+
+<h1 align="center">Welcome to my Github page! </h1>
 <h3 align="center">Coding by day, debugging by night</h3>
 
-- 🔭 I’m currently working on **Personal Applications**
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
+</p>
+
+-  currently working on **Ticket scanner application**
+-  I am currently learning about: **Spark, Azure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
